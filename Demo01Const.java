@@ -1,14 +1,14 @@
 public class Demo01Const{
 	public static void main(String[] args){
-		//×Ö·û´®³£Á¿
+		//å­—ç¬¦ä¸²å¸¸é‡
 		System.out.println("abc");
-		//ÕûĞÍ³£Á¿
+		//æ•´å‹å¸¸é‡
 		System.out.println(5);
-		//¸¡µãÊı³£Á¿
+		//æµ®ç‚¹æ•°å¸¸é‡
 		System.out.println(1.5);
-		//×Ö·û³£Á¿
+		//å­—ç¬¦å¸¸é‡
 		System.out.println('a');
-		//²¼¶û³£Á¿
+		//å¸ƒå°”å¸¸é‡
 		System.out.println(true);
 		System.out.println(false);
 	}
